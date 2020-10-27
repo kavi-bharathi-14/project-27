@@ -33,11 +33,7 @@ function setup() {
 	world = engine.world;
 
  
-  //ground = new Ground(300,100);
-  //ground1 = new Ground1(300,200,10,50);
-  //ground2 = new Ground1(212,200,10,50)
- //ground3 = new Ground1(256,200,10,50);
-  //ground4 = new Ground1(344,200,10,50);
+ 
   bobObject1 = new Ball(460,300,50);
   bobObject2 = new Ball(220,300,50);
    ground = new Ground (300,100);
