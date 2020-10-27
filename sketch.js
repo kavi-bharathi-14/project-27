@@ -34,12 +34,12 @@ function setup() {
 
  
  
-  bobObject1 = new Ball(460,300,50);
-  bobObject2 = new Ball(220,300,50);
+  bobObject1 = new Ball(460,300,70);
+  bobObject2 = new Ball(220,300,70);
    ground = new Ground (300,100);
-   bobObject3 = new Ball(300,300,50);
-   bobObject4 = new Ball(140,300,50);
-   bobObject5 = new Ball(380,300,50);
+   bobObject3 = new Ball(300,300,70);
+   bobObject4 = new Ball(140,300,70);
+   bobObject5 = new Ball(380,300,70);
  
  
    piece1 = new Ground1(460,100);
